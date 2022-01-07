@@ -9,7 +9,7 @@
 ?>
   <link rel="stylesheet" href="_css/estilo.css"/>
   <meta charset="UTF-8"/>
-  <title>Curso de PHP - CursoemVideo.com</title>
+  <title>Exercicio</title>
   <style>
 		span.texto{
 			font-size: <?php echo $tam; ?>;
